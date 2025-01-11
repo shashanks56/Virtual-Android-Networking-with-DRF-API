@@ -17,7 +17,7 @@ Setup: { Task-Specific Setup is also given, navigate to individual task director
 
 Steps:
 
-Clone the Repository:
+Clone the Repository.
 
 #Set Up the Backend API: 
   -Navigate to the API directory. 
