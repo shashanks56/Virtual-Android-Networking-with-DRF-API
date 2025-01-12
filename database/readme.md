@@ -1,6 +1,6 @@
-Database Management
+# Database Management
 
-## Database Schema
+# Database Schema
 The database schema is defined in the `schema.sql` file. 
 It creates the `api_app` table with the following columns:
 
@@ -9,5 +9,5 @@ It creates the `api_app` table with the following columns:
 **version**: Version of the app (varchar, max length 105)
 **description**: Description of the app (text)
 
-## Sample Data
+# Sample Data
 The `sample_data.sql` file provides sample data for testing the database. It inserts values into the `api_app` table.
