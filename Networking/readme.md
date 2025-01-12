@@ -1,4 +1,4 @@
-# Task 4: Basic Networking
+# Basic Networking
 
 ## How the Script Works
 
