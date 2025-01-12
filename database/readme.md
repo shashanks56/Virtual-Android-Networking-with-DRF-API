@@ -1,4 +1,4 @@
-# Task 2: Database Management
+Database Management
 
 ## Database Schema
 The database schema is defined in the `schema.sql` file. 
